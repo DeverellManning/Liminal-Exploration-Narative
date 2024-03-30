@@ -28,11 +28,10 @@ but many little ones. I am thinking of a limited set of characters, but I could 
 	- What is so interesting to me about exploring liminal spaces?
 	- How does it relate to my life?
 	- Is this even a good idea?
-	- Maybe I can move on from that a little. We/I aren't just “lost,” and not just vast spaces
-	without people.
+	- Maybe I can move on from that a little. We/I aren't just “lost,” and not just vast spaces without people.
 	- We could even drop in and out of reality during the story.
 	- What if no one notices that we are different?
-	- Like my actual life. Plus, it would be funny.
+		- Like my actual life. Plus, it would be funny.
 	- Humor would be great to add to this.
 	- How do I write without getting too distracted?
 	- What events in my life can help inspire this story?
@@ -66,18 +65,20 @@ have been a challenge in my life?
 	- My relationship with my Dad.
 - In stories I've read, the big problem is often not introduced in the beginning of the story.
 Hence “rising action”
-- More theme ideas:
-	- I’m almost a junior, and my sister is an adult now. It will be soon for me. What
+
+More theme ideas:
+ - I’m almost a junior, and my sister is an adult now. It will be soon for me. What
 	will I do?
-	- Plus going on a mission and college.
-- This is sounding like quite a long kind of story, so quick thought, I might kinda plan a
+ - Plus going on a mission and college.
+ - This is sounding like quite a long kind of story, so quick thought, I might kinda plan a
 longer version, but split it into chunks and finish just one chunk for this project, for
 English.
--
-Symbolism:
-- Sin / Mistakes
-- Temptation
-- People, society
--
+
+
+#### Symbolism:
+ - Sin / Mistakes
+ - Temptation
+ - People, society
+ - Arina as my conceince
 
 > Written with [StackEdit](https://stackedit.io/).
