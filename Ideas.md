@@ -18,9 +18,17 @@ but many little ones. I am thinking of a limited set of characters, but I could 
 | -
 
 | Arina
+|- |
+| - Represents myself.
+| - In what way?
+| - More like Deverell's conceince/guide?
+
+| Juna
 |-|
-|- Represents myself.
-|- In what way?
+| - Lives inside the dataspace
+| - Helpfull and Freindly
+| - Knowlegeable of the Backrooms, having read every thing she has access to.
+
 
 ## Thoughts:
 - Author’s notes scattered throughout.
