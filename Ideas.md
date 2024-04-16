@@ -1,33 +1,32 @@
-﻿
+
 A fox is?
 
-I am here to do something productive. I want to write a narrative “Memoir” based on my life, but
-composed of fictional elements. I will use metaphor to compare pieces of my life to elements of
-the story’s plot and setting. The plot line will be up and down, so it won't have a big max point,
-but many little ones. I am thinking of a limited set of characters, but I could stretch myself.
-#### Ways to stretch myself:
+I am here to do something productive.  I want to write a narrative “Memoir” based on my life, but composed of fictional elements.  I will use metaphor to compare pieces of my life to elements of the story’s plot and setting.  The plot line will be up and down, so it won't have a big max point, but many little ones. I am thinking of a limited set of characters, but I could stretch myself.
+  
+
+## Ways to stretch myself:
 - Dialogue and conversation
 - More characters
 - The setting as a character
 - Meta stories
+
 ## Characters:
-| Deverell |
-|-|
-| - Represents myself.
-| - In what way?
-| -
+| Deverell
+|---|
+| - Represents myself. |
+| - In what way? |
 
 | Arina
-|- |
+|---|
 | - Represents myself.
 | - In what way?
 | - More like Deverell's conceince/guide?
 
 | Juna
-|-|
+|---|
 | - Lives inside the dataspace
 | - Helpfull and Freindly
-| - Knowlegeable of the Backrooms, having read every thing she has access to.
+| - Knowledgeable of the Backrooms, having read every thing she has access to.
 
 
 ## Thoughts:
@@ -61,8 +60,10 @@ reality without notice or by accident.
 - Scenes from HP.
 	- I don't know why.
 - The funny thing is that I’m enjoying myself writing this. Does that make sense?
-Because I don't know if this “idea” will be enjoyable for someone else to read. __SO:__
-#### What is my purpose for writing this?
+Because I don't know if this “idea” will be enjoyable for someone else to read. 
+__SO:__
+
+### What is my purpose for writing this?
 - I want to get an assignment for English done on time for once.
 - Of course, to improve my grade in English class.
 - Maybe it will help me work through the events of my life and self reflect?
@@ -74,7 +75,8 @@ have been a challenge in my life?
 - In stories I've read, the big problem is often not introduced in the beginning of the story.
 Hence “rising action”
 
-More theme ideas:
+### More theme ideas:
+
  - I’m almost a junior, and my sister is an adult now. It will be soon for me. What
 	will I do?
  - Plus going on a mission and college.
@@ -83,10 +85,8 @@ longer version, but split it into chunks and finish just one chunk for this proj
 English.
 
 
-#### Symbolism:
+### Symbolism:
  - Sin / Mistakes
  - Temptation
  - People, society
  - Arina as my conceince
-
-> Written with [StackEdit](https://stackedit.io/).
