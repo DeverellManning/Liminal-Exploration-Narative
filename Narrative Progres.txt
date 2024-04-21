@@ -1,12 +1,77 @@
-﻿######## ############
-Mr. #######
+﻿####### #########
+### #######
 English 10, period 7
 16 April 2024
 
 
-We are wandering in the dim light.  A low buzz of fans layered on the hum of power running through the machines that line the walls.  I and Arina had just arrived here.  I’m pretty sure it won’t be safe.  Before we spliced here we were running from something, and it was catching up.  Of course I can’t feel safe.  But here I am, with my friend Arina, and things could be so much worse.
+We are wandering in the dim bluish light.  A low buzz of fans layered over the hum of power running through the machines that line the walls.  We had just arrived here.  I’m pretty sure it isn’t safe.  Before we got here we were running from that thing, and it was catching up.  So of course I can’t feel safe.  But we’re not hurt, traveling with my friend, and things could be so much worse.
 
 
-        This odd place.  It is barely lit - Sometimes there is a dim square on the ceiling, but if not, it’s just the light emanating  from the indecipherable panels on the walls.  The wallway is lined with machines reminiscent of a supercomputer imagined in the 80s.  Large portions of the face are covered in rows of glowing buttons.  In some places there are old style bus ports, or what might be a floppy disk reader.  I don’t touch any of it, for two reasons:  First of all, just in the few hallways we’ve been through, there is so much that you could mess with, and still no information on what any of it does.  Besides that, since we first got here yesterday, none of our experiences would lead me to believe that I could do anything beneficial.
+        This odd place.  It is barely lit - Sometimes there is a glowing square on the ceiling, but if not, it’s just the light emanating from the indecipherable panels on the walls.  The wallway is lined with machines reminiscent of a supercomputer imagined in the 80s.  Large portions of the face are covered in rows of glowing buttons.  In some places there are old style bus ports, or what might be a floppy disk reader.  I don’t touch any of it, for two reasons:  First of all, just in the few hallways we’ve been through, there is so much that you could mess with, and still no information on what any of it does.  Besides that, since we first got here yesterday, none of our experiences would lead me to believe that I could do anything beneficial.
+
+
 After nothing happens, I start talking.
-        “
+        “Do you think we're safe now?”
+        “Uh…Not really.  What is this place?”
+        I smell the air.  Metallic, Tang, Electric, Hints of acid and burning.  “Don’t these look like server racks?  Maybe we're in a massive supercomputer.”
+
+
+        Several minutes of walking pass, and we come into a room lined with more of the same quietly humming computers.  Packed between two large beeping cabinets is a short desk with a computer monitor, and keyboard.  I move aside one of the rolling chairs to take a closer look.  Both display a lock screen with a password prompt.  So no luck there, nothing to figure out.
+        “Normally they don’t put terminals inside the super computer.”
+        “Yeah.  Really, you're not supposed to have people inside the computer, unless it’s for maintenance or something.”
+        “Do you think we are breaking that rule?  I wonder what kind of security they have.”
+        “I haven't seen any cameras.” I say.  “Really.  If we get caught, who’s gonna believe that we were running from some kind of hairy vacuum creature, tripped, and fell into the middle of this giant super computer?”
+        “Deverell, I think we have worse problems if we get caught.” she said.  “How did demi foxes get into my super computer?!  Out! Out!”
+        “Sorry about the dialog.  Revising time hasn’t happened yet!”
+        After a quick search of the room, we leave through the largest exit.  Maybe that route will take us to some people?  More buzzing machinery.  At this point it really is all blending together, with nothing distinctly different about the majority of the machines.  In fact, most of them appear to be exactly the same.  Hundreds of LEDs blinking in unison all down the slowly twisting hallway.  Our footsteps are quiet on the concrete floor.  We are quiet, but the halls make enough noise to cover our breathing.  We come to the end of the hallway.  Then another.  Each hallway intersection we come to we do our best to take the largest exit, although most of them are the same.  
+        I check my watch.  It’s been almost two hours since we first got here, and still not much has changed.
+        Arina notices.  “It seems like not much happens around here.  It’s almost calming”
+        “Maybe.  It’s almost too calming.  Every time we cross a passage or find one of those rooms, I have this distinct feeling that we were not supposed to be here.  How big is this place?”
+        “Don’t you just feel like this place wasn't made for people?”
+        “When is someone going to notice us?  Doesn’t this place have any security?”
+        Then I heard something different.  As we come closer to an intersection with another hallway, I hear a small, rolling whirring noise.  Coming toward us.  We stop.  Then, around the corner comes a short wheeled cart.  That’s my first thought, but it’s moving autonomously and appears to know where it’s going.  It suddenly stops.  A piece on the front detaches, turns and faces us.  For two seconds.  Then, it turns in place, and starts heading back the way it came.
+“What?”
+“Do you think it saw us?”
+“Why didn’t it stay?”
+“Should we follow it?”
+“I think we should follow it.  We’ll stay a ways behind it.  Maybe there are others? Maybe they can show us out?”
+“Maybe.”
+
+
+        I can still see it up ahead, though it doesn’t turn around, look at us or even notice we're following it.  Watching it from a distance, I notice it’s going fairly slow.  It doesn’t go any faster than walking speed.  It definitely knows where it’s going though.  It mostly sticks to larger passages, but sometimes drops into a small one that just leads back to a normal one.  It turns a corner and disappears out of sight.  Right as I step up to the corner, Arina grabs my arm.
+        “Don’t you hear that? That rumbling?”
+        I pause.  Indeed, I can hear, and feel, a low rumbling.  Shaking the ground a little.
+        “That's concerning.”
+        “I don’t think we're supposed to be here.”
+        “But how do we get out?”
+“I don’t know”
+Down the hallway in front of us, a larger metallic object rolls toward us at a walking pace.
+It is holding in front of it a needle.
+Several similar things come out behind it, advancing on us at the same slow pace.
+“Deverell.  I think that little one alerted security!”
+We take the right passage running.  The robot moves down the hall, but we are faster.  Except for one thing.  The next intersection we come to, both sides are blocked off by the same robots, not yet close but they all are closing in on us.  I think they're surrounding us.  On the right we come to a metal ramp.
+“Do you really think this will throw them off?”
+        We are ascending the ramp.  “Maybe they are focusing only on the floor we were previously on!”  The ramp raises up a level.  Here there  is a similar ramp going up another level.  We take it.  Several more levels up, but no more ramps.  We tread down the passage.  More of the same. Wait.  We stop at a machine.  The front panel is partially ripped out, with sharp metal edges, exposed circuitry.  The machine is dark - It’s been disconnected from power.
+Farther down, there is a similar broken machine.  Then, an intersection.  On our left, and up ahead, none of the machines are powered.  We go left.
+        “What happened here?”
+        “Some of these machines have chunks ripped out.”
+        “I wonder who did this.”
+        It is getting quite dark now.  Barely visible, the floor feels somewhat uneven.  We carefully navigate down the corridor.  After a while, I see something up ahead.
+“Hey! I think I see some light.”
+As we come closer to the opening, a cool breeze barely ruffles my fur.  We step through on to a bluish metal grate.  It’s a catwalk on the edge of a tube of indeterminate length.  The cool wind blows past us from above.  Above us are more catwalks, smooth walls, holes, and the walls of the tube receding into darkness.  Below, there – The vertigo hits me, I step away from the edge and clutch the wall.
+“Are you okay?”
+“Yeah.  I’m fine.”  Our whispers echo from across the chute.
+She peers over the edge.  “This cylinder extends straight down.  There’s some kind of orange glow down there too.”
+We start to travel to the other side of the tube.  Right across from where we came in there is another exit, so we head over to it.  Luckily there’s a railing, otherwise I would have just turned back around.  Despite this, I can still see the endless abyss under my feet.  Oops.  I look straight ahead.
+We get to the other side and enter.  It’s still dark here, but there is a lit section up ahead.  Just as we get there, I hear a frail sound of screeching, tearing metal.  Then the clank of metal, and it goes quiet.  I run back to the tube, just in time to catch one of those little robots slowly driving away on the other side of the catwalk.
+Arina catches up.  I ask “What did it do?”
+I follow her over to a section of the catwalk that was cut off and pulled to the other side.
+“That’s bad.”
+“Great! Now there’s no way back!”
+“Why would we go back?”
+“I think you should be worried about what's ahead.”
+Indeed.  Is this place trying to kill us?
+
+
+We get back to the lit area.  It’s no longer quiet, just the constant, low buzz from the thousands of machines.  There’s probably more than that.  I can see why someone might see this place calming, but I see it differently now.
+We’re both looking for a way out.  We come across a door.  It’s locked shut.  Then we came to an intersection.  On one side, a makeshift barricade has been formed out of sheet metal.  The other is guarded by a needle brandishing robot.  It doesn’t follow us.  Both sides are blocked off, so we continue onward.
