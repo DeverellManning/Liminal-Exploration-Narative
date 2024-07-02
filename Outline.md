@@ -21,4 +21,4 @@ Part II - The Computer
 Part III - The Office
 
 1. This time, we are more prepared, but nothing happens
-2. We are journiing to find a settlement.
+2. We are journeying to find a settlement.
