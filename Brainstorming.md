@@ -70,6 +70,6 @@ How do I make my story feel more liminal? More Lonely?
  - A carefully tended garden -- But where's the gardener?
  - A security box, or desk, unmanned.
  - Tools that were used to build this place.
-	
+		
 What parts of my story need Emotional Contrast?
 
