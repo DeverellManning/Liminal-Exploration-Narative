@@ -3,3 +3,4 @@
 3. Forcefully join the dead yellow team.
 4. Publish first story, Team Yellow now in third place.
 5. ???
+
